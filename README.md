@@ -10,3 +10,6 @@
 ## 🌱 I’m currently learning
 - Go
 - Higload basics
+
+
+📫 Reach me via telegram [@daniskzn](https://t.me/daniskzn)
