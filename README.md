@@ -9,4 +9,4 @@
 
 ## 🌱 I’m currently learning
 - Go
-- Higload basics by Martin Kleppman
+- Higload basics
