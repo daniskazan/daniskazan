@@ -10,6 +10,7 @@
 ## 🌱 I’m currently learning
 - Golang
 - Higload basics
+- k8s, helm
 
 
 📫 Reach me via telegram [@daniskzn](https://t.me/daniskzn)
