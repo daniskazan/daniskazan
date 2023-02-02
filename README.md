@@ -12,7 +12,7 @@
 - Higload basics
 - k8s, helm
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniskazan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniskazan&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Danis's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniskazan)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 Reach me via telegram [@daniskzn](https://t.me/daniskzn)
