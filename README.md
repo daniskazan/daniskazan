@@ -16,3 +16,7 @@
 [![Danis's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniskazan)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 Reach me via telegram [@daniskzn](https://t.me/daniskzn)
+
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/daniskazan/count.svg)
