@@ -3,7 +3,7 @@
 ## 🫶 My current stack
 - Python3.8+
 - Django, DRF
-- FastAPI, SQLModel, SQLAlchemy, Pydantic
+- FastAPI, SQLAlchemy, Pydantic
 - Docker, docker-compose
 - Swagger docs
 
