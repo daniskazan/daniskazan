@@ -1,4 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">
+  ### Hi there <img src="https://i.pinimg.com/originals/1e/9c/79/1e9c796c7a8d967bed4e3293d416c05b.gif" width="30px">
+</h1>
 
 ## 🫶 My current stack
 - Python3.8+
