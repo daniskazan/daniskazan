@@ -1,5 +1,6 @@
 <h1 align="center">
-  ### Hi there <img src="https://i.pinimg.com/originals/1e/9c/79/1e9c796c7a8d967bed4e3293d416c05b.gif" width="30px">
+  ### Hi there!
+  <img src="https://i.pinimg.com/originals/1e/9c/79/1e9c796c7a8d967bed4e3293d416c05b.gif">
 </h1>
 
 ## 🫶 My current stack
