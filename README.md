@@ -1,7 +1,7 @@
-<h1 align="center">
-  ### Hi there!
+<div align="center">
+  <h1>Hi there!</h1>
   <img src="https://i.pinimg.com/originals/1e/9c/79/1e9c796c7a8d967bed4e3293d416c05b.gif">
-</h1>
+</div>
 
 ## 🫶 My current stack
 - Python3.8+
