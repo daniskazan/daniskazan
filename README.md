@@ -3,14 +3,12 @@
   <img src="https://i.pinimg.com/originals/1e/9c/79/1e9c796c7a8d967bed4e3293d416c05b.gif">
 </div>
 
-## 🌱 Stack
 ## 🌱 Languages
 - Python
-## 🌱 Frameworks
+## 🛠 Frameworks
 - FastAPI, Django Rest Framework, Django.
-## 🌱 Infrastructure
-- PostgreSQL, Redis, Kafka/RabbitMQ
-
+## 💾 Infrastructure
+- PostgreSQL, Redis
 
 ## 🌱 I’m currently learning
 - Golang
